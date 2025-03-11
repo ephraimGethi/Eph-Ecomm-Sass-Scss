@@ -1,3 +1,10 @@
+import product1 from '../src/assets/images/category/01.jpg'
+import product2 from '../src/assets/images/category/02.jpg'
+import product3 from '../src/assets/images/category/03.jpg'
+import product4 from '../src/assets/images/category/04.jpg'
+import product5 from '../src/assets/images/category/05.jpg'
+import product6 from '../src/assets/images/category/06.jpg'
+
 export const data = [
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
@@ -8,7 +15,7 @@ export const data = [
         "stock": 20,
         "ratings": 4,
         "ratingsCount": 3725,
-        "img": '../../src/assets/images/category/01.jpg',
+        "img":product1,
         "shipping": 1,
         "quantity": 0
     },
@@ -21,7 +28,7 @@ export const data = [
         "stock": 19,
         "ratings": 5,
         "ratingsCount": 4355,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 14,
         "quantity": 0
     },
@@ -34,7 +41,7 @@ export const data = [
         "stock": 20,
         "ratings": 4,
         "ratingsCount": 3972,
-        "img": '../../src/assets/images/category/03.jpg',
+        "img": product3,
         "shipping": 1,
         "quantity": 0
     },
@@ -47,7 +54,7 @@ export const data = [
         "stock": 10,
         "ratings": 5,
         "ratingsCount": 1764,
-        "img":'../../src/assets/images/category/04.jpg',
+        "img":product4,
         "shipping": 32,
         "quantity": 0
     },
@@ -60,7 +67,7 @@ export const data = [
         "stock": 11,
         "ratings": 4,
         "ratingsCount": 799,
-        "img": '../../src/assets/images/category/05.jpg',
+        "img": product5,
         "shipping": 49,
         "quantity": 0
     },
@@ -73,7 +80,7 @@ export const data = [
         "stock": 19,
         "ratings": 3,
         "ratingsCount": 4372,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
         "shipping": 19,
         "quantity": 0
     },
@@ -86,7 +93,7 @@ export const data = [
         "stock": 1,
         "ratings": 4,
         "ratingsCount": 2870,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 15,
         "quantity": 0
     },
@@ -99,7 +106,7 @@ export const data = [
         "stock": 7,
         "ratings": 4,
         "ratingsCount": 1360,
-        "img": '../../src/assets/images/category/03.jpg',
+        "img": product3,
         "shipping": 50,
         "quantity": 0
     },
@@ -112,7 +119,7 @@ export const data = [
         "stock": 4,
         "ratings": 5,
         "ratingsCount": 1976,
-        "img": '../../src/assets/images/category/04.jpg',
+        "img": product4,
         "shipping": 46,
         "quantity": 0
     },
@@ -125,7 +132,7 @@ export const data = [
         "stock": 1,
         "ratings": 4,
         "ratingsCount": 565,
-        "img": '../../src/assets/images/category/05.jpg',
+        "img": product5,
         "shipping": 36,
         "quantity": 0
     },
@@ -138,7 +145,7 @@ export const data = [
         "stock": 15,
         "ratings": 5,
         "ratingsCount": 3702,
-        "img": '../../src/assets/images/category/05.jpg',
+        "img": product5,
         "shipping": 29,
         "quantity": 0
     },
@@ -151,7 +158,7 @@ export const data = [
         "stock": 6,
         "ratings": 5,
         "ratingsCount": 1688,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
         "shipping": 48,
         "quantity": 0
     },
@@ -164,7 +171,7 @@ export const data = [
         "stock": 46,
         "ratings": 4,
         "ratingsCount": 50,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 20,
         "quantity": 0
     },
@@ -190,7 +197,7 @@ export const data = [
         "stock": 43,
         "ratings": 4,
         "ratingsCount": 1239,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 27,
         "quantity": 0
     },
@@ -203,7 +210,7 @@ export const data = [
         "stock": 26,
         "ratings": 5,
         "ratingsCount": 4557,
-        "img": '../../src/assets/images/category/03.jpg',
+        "img": product3,
         "shipping": 33,
         "quantity": 0
     },
@@ -216,7 +223,7 @@ export const data = [
         "stock": 5,
         "ratings": 3,
         "ratingsCount": 3383,
-        "img": '../../src/assets/images/category/04.jpg',
+        "img": product4,
         "shipping": 26,
         "quantity": 0
     },
@@ -229,7 +236,7 @@ export const data = [
         "stock": 27,
         "ratings": 3,
         "ratingsCount": 1974,
-        "img": '../../src/assets/images/category/05.jpg',
+        "img": product5,
         "shipping": 20,
         "quantity": 0
     },
@@ -242,7 +249,7 @@ export const data = [
         "stock": 41,
         "ratings": 5,
         "ratingsCount": 2140,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
         "shipping": 49,
         "quantity": 0
     },
@@ -268,7 +275,7 @@ export const data = [
         "stock": 1,
         "ratings": 3,
         "ratingsCount": 128,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 13,
         "quantity": 0
     },
@@ -281,7 +288,7 @@ export const data = [
         "stock": 19,
         "ratings": 4,
         "ratingsCount": 894,
-        "img": '../../src/assets/images/category/03.jpg',
+        "img": product3,
         "shipping": 27,
         "quantity": 0
     },
@@ -294,7 +301,7 @@ export const data = [
         "stock": 6,
         "ratings": 5,
         "ratingsCount": 354,
-        "img":'../../src/assets/images/category/04.jpg',
+        "img":product4,
         "shipping": 26,
         "quantity": 0
     },
@@ -307,7 +314,7 @@ export const data = [
         "stock": 3,
         "ratings": 4,
         "ratingsCount": 584,
-        "img": '../../src/assets/images/category/05.jpg',
+        "img": product5,
         "shipping": 33,
         "quantity": 0
     },
@@ -320,7 +327,7 @@ export const data = [
         "stock": 13,
         "ratings": 3,
         "ratingsCount": 1010,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
         "shipping": 4,
         "quantity": 0
     },
@@ -333,7 +340,7 @@ export const data = [
         "stock": 14,
         "ratings": 4,
         "ratingsCount": 2422,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 39,
         "quantity": 0
     },
@@ -346,7 +353,7 @@ export const data = [
         "stock": 16,
         "ratings": 3,
         "ratingsCount": 1533,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 33,
         "quantity": 0
     },
@@ -359,7 +366,7 @@ export const data = [
         "stock": 4,
         "ratings": 5,
         "ratingsCount": 1351,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 38,
         "quantity": 0
     },
@@ -372,7 +379,7 @@ export const data = [
         "stock": 8,
         "ratings": 3,
         "ratingsCount": 1798,
-        "img": '../../src/assets/images/category/03.jpg',
+        "img": product3,
         "shipping": 37,
         "quantity": 0
     },
@@ -398,7 +405,7 @@ export const data = [
         "stock": 19,
         "ratings": 3,
         "ratingsCount": 4041,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 5,
         "quantity": 0
     },
@@ -411,7 +418,7 @@ export const data = [
         "stock": 10,
         "ratings": 3,
         "ratingsCount": 4505,
-        "img": '../../src/assets/images/category/03.jpg',
+        "img": product3,
         "shipping": 11,
         "quantity": 0
     },
@@ -424,7 +431,7 @@ export const data = [
         "stock": 12,
         "ratings": 4,
         "ratingsCount": 41,
-        "img": '../../src/assets/images/category/04.jpg',
+        "img": product4,
         "shipping": 38,
         "quantity": 0
     },
@@ -437,7 +444,7 @@ export const data = [
         "stock": 17,
         "ratings": 4,
         "ratingsCount": 4985,
-        "img": '../../src/assets/images/category/05.jpg',
+        "img": product5,
         "shipping": 35,
         "quantity": 0
     },
@@ -450,7 +457,7 @@ export const data = [
         "stock": 20,
         "ratings": 3,
         "ratingsCount": 4727,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
         "shipping": 2,
         "quantity": 0
     },
@@ -463,7 +470,7 @@ export const data = [
         "stock": 17,
         "ratings": 3,
         "ratingsCount": 4003,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 2,
         "quantity": 0
     },
@@ -476,7 +483,7 @@ export const data = [
         "stock": 6,
         "ratings": 3,
         "ratingsCount": 805,
-        "img":'../../src/assets/images/category/03.jpg',
+        "img":product3,
          "shipping": 6,
         "quantity": 0
     },
@@ -489,7 +496,7 @@ export const data = [
         "stock": 7,
         "ratings": 5,
         "ratingsCount": 3343,
-        "img": '../../src/assets/images/category/05.jpg',
+        "img": product5,
          "shipping": 48,
         "quantity": 0
     },
@@ -502,7 +509,7 @@ export const data = [
         "stock": 2,
         "ratings": 4,
         "ratingsCount": 1590,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 13,
         "quantity": 0
     },
@@ -515,7 +522,7 @@ export const data = [
         "stock": 6,
         "ratings": 3,
         "ratingsCount": 2680,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
         "shipping": 39,
         "quantity": 0
     },
@@ -528,7 +535,7 @@ export const data = [
         "stock": 7,
         "ratings": 5,
         "ratingsCount": 365,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
          "shipping": 23,
         "quantity": 0
     },
@@ -554,7 +561,7 @@ export const data = [
         "stock": 10,
         "ratings": 3,
         "ratingsCount": 346,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
          "shipping": 42,
         "quantity": 0
     },
@@ -567,7 +574,7 @@ export const data = [
         "stock": 15,
         "ratings": 5,
         "ratingsCount": 234,
-        "img": '../../src/assets/images/category/03.jpg',
+        "img": product3,
         "shipping": 21,
         "quantity": 0
     },
@@ -580,7 +587,7 @@ export const data = [
         "stock": 10,
         "ratings": 4,
         "ratingsCount": 241,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 15,
         "quantity": 0
     },
@@ -593,7 +600,7 @@ export const data = [
         "stock": 18,
         "ratings": 5,
         "ratingsCount": 168,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
         "shipping": 14,
         "quantity": 0
     },
@@ -619,7 +626,7 @@ export const data = [
         "stock": 19,
         "ratings": 3,
         "ratingsCount": 471,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
           "shipping": 20,
         "quantity": 0
     },
@@ -632,7 +639,7 @@ export const data = [
         "stock": 5,
         "ratings": 4,
         "ratingsCount": 445,
-        "img": '../../src/assets/images/category/04.jpg',
+        "img": product4,
         "shipping": 19,
         "quantity": 0
     },
@@ -645,7 +652,7 @@ export const data = [
         "stock": 10,
         "ratings": 5,
         "ratingsCount": 83,
-        "img":'../../src/assets/images/category/02.jpg',
+        "img":product2,
          "shipping": 24,
         "quantity": 0
     },
@@ -658,7 +665,7 @@ export const data = [
         "stock": 6,
         "ratings": 4,
         "ratingsCount": 4,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 1,
         "quantity": 0
     },
@@ -671,7 +678,7 @@ export const data = [
         "stock": 13,
         "ratings": 4,
         "ratingsCount": 1,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
          "shipping": 26,
         "quantity": 0
     },
@@ -684,7 +691,7 @@ export const data = [
         "stock": 18,
         "ratings": 3,
         "ratingsCount": 39,
-        "img": '../../src/assets/images/category/04.jpg',
+        "img": product4,
         "shipping": 32,
         "quantity": 0
     },
@@ -697,7 +704,7 @@ export const data = [
         "stock": 10,
         "ratings": 5,
         "ratingsCount": 47,
-        "img": '../../src/assets/images/category/03.jpg',
+        "img": product3,
         "shipping": 24,
         "quantity": 0
     },
@@ -710,7 +717,7 @@ export const data = [
         "stock": 1,
         "ratings": 4,
         "ratingsCount": 14,
-        "img":'../../src/assets/images/category/02.jpg',
+        "img":product2,
         "shipping": 48,
         "quantity": 0
     },
@@ -723,7 +730,7 @@ export const data = [
         "stock": 7,
         "ratings": 5,
         "ratingsCount": 37,
-        "img": '../../src/assets/images/category/05.jpg',
+        "img": product5,
         "shipping": 48,
         "quantity": 0
     },
@@ -736,7 +743,7 @@ export const data = [
         "stock": 9,
         "ratings": 5,
         "ratingsCount": 15,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 6,
         "quantity": 0
     },
@@ -762,7 +769,7 @@ export const data = [
         "stock": 14,
         "ratings": 4,
         "ratingsCount": 32,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 47,
         "quantity": 0
     },
@@ -775,7 +782,7 @@ export const data = [
         "stock": 16,
         "ratings": 4,
         "ratingsCount": 30,
-        "img":'../../src/assets/images/category/05.jpg',
+        "img":product5,
         "shipping": 14,
         "quantity": 0
     },
@@ -788,7 +795,7 @@ export const data = [
         "stock": 11,
         "ratings": 5,
         "ratingsCount": 22,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
         "shipping": 23,
         "quantity": 0
     },
@@ -801,7 +808,7 @@ export const data = [
         "stock": 16,
         "ratings": 5,
         "ratingsCount": 51,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 30,
         "quantity": 0
     },
@@ -814,7 +821,7 @@ export const data = [
         "stock": 8,
         "ratings": 4,
         "ratingsCount": 66,
-        "img":'../../src/assets/images/category/03.jpg',
+        "img":product3,
         "shipping": 15,
         "quantity": 0
     },
@@ -840,7 +847,7 @@ export const data = [
         "stock": 15,
         "ratings": 5,
         "ratingsCount": 9,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
         "shipping": 48,
         "quantity": 0
     },
@@ -853,7 +860,7 @@ export const data = [
         "stock": 15,
         "ratings": 5,
         "ratingsCount": 55,
-        "img": '../../src/assets/images/category/03.jpg',
+        "img": product3,
         "shipping": 48,
         "quantity": 0
     },
@@ -866,7 +873,7 @@ export const data = [
         "stock": 7,
         "ratings": 4,
         "ratingsCount": 62,
-        "img": '../../src/assets/images/category/04.jpg',
+        "img": product4,
         "shipping": 15,
         "quantity": 0
     },
@@ -892,7 +899,7 @@ export const data = [
         "stock": 2,
         "ratings": 5,
         "ratingsCount": 73,
-        "img": '../../src/assets/images/category/03.jpg',
+        "img": product3,
         "shipping": 45,
         "quantity": 0
     },
@@ -905,7 +912,7 @@ export const data = [
         "stock": 14,
         "ratings": 5,
         "ratingsCount": 63,
-        "img": '../../src/assets/images/category/06.jpg',
+        "img": product6,
         "shipping": 21,
         "quantity": 0
     },
@@ -918,7 +925,7 @@ export const data = [
         "stock": 19,
         "ratings": 4,
         "ratingsCount": 64,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 43,
         "quantity": 0
     },
@@ -931,7 +938,7 @@ export const data = [
         "stock": 10,
         "ratings": 3,
         "ratingsCount": 15,
-        "img":'../../src/assets/images/category/04.jpg',
+        "img":product4,
         "shipping": 46,
         "quantity": 0
     },
@@ -957,7 +964,7 @@ export const data = [
         "stock": 20,
         "ratings": 3,
         "ratingsCount": 1,
-        "img":'../../src/assets/images/category/02.jpg',
+        "img":product2,
         "shipping": 5,
         "quantity": 0
     },
@@ -970,7 +977,7 @@ export const data = [
         "stock": 11,
         "ratings": 5,
         "ratingsCount": 35,
-        "img": '../../src/assets/images/category/02.jpg',
+        "img": product2,
         "shipping": 5,
         "quantity": 0
     },
@@ -983,7 +990,7 @@ export const data = [
         "stock": 14,
         "ratings": 4,
         "ratingsCount": 68,
-        "img": '../../src/assets/images/category/04.jpg',
+        "img": product4,
         "shipping": 27,
         "quantity": 0
     }
