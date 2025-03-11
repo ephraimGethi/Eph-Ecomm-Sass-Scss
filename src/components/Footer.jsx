@@ -117,21 +117,18 @@ const tweetList = [
 
 const footerbottomList = [
     {
-        text: 'Faculty',
+        text: 'Nairobi',
         link: '#',
     },
     {
-        text: 'Staff',
+        text: 'Nyeri',
         link: '#',
     },
     {
-        text: 'Students',
+        text: 'Karatina',
         link: '#',
     },
-    {
-        text: 'Alumni',
-        link: '#',
-    },
+   
 ]
 
 const Footer = () => {

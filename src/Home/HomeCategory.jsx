@@ -1,43 +1,44 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 
+
 const subTitle = "Decide What To Buy with Eph Group Store";
 const title = "shop with us";
 const btnText = "Get Started";
 
 const categoryList = [
 {
-imgUrl: 'src/assets/images/category/01.jpg',
+imgUrl: '../../src/assets/images/category/01.jpg',
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'DSLR Camera',
 },
 {
-imgUrl: 'src/assets/images/category/02.jpg',
+imgUrl: '../../src/assets/images/category/02.jpg',
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'Shoes',
 },
 {
-imgUrl: 'src/assets/images/category/03.jpg',
+imgUrl: '../../src/assets/images/category/03.jpg',
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'Photography',
 },
 {
-imgUrl: 'src/assets/images/category/04.jpg',
+imgUrl: '../../src/assets/images/category/04.jpg',
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'Formal Dress',
 },
 {
-imgUrl: 'src/assets/images/category/05.jpg',
+imgUrl: '../../src/assets/images/category/05.jpg',
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'Colorful Bags',
 },
 {
-imgUrl: 'src/assets/images/category/06.jpg',
+imgUrl: '../../src/assets/images/category/06.jpg',
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'Home Decor',
