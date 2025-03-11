@@ -912,7 +912,7 @@ export const data = [
         "stock": 14,
         "ratings": 5,
         "ratingsCount": 63,
-        "img": product6,
+        "img": product4,
         "shipping": 21,
         "quantity": 0
     },
@@ -925,7 +925,7 @@ export const data = [
         "stock": 19,
         "ratings": 4,
         "ratingsCount": 64,
-        "img": product2,
+        "img": product3,
         "shipping": 43,
         "quantity": 0
     },
@@ -951,7 +951,7 @@ export const data = [
         "stock": 20,
         "ratings": 5,
         "ratingsCount": 83,
-        "img":'../../src/assets/images/category/01.jpg',
+        "img":product1,
         "shipping": 6,
         "quantity": 0
     },
