@@ -1,5 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
+import cat1 from '../../src/assets/images/category/01.jpg'
+import cat2 from '../../src/assets/images/category/02.jpg'
+import cat3 from '../../src/assets/images/category/03.jpg'
+import cat4 from '../../src/assets/images/category/04.jpg'
+import cat5 from '../../src/assets/images/category/05.jpg'
+import cat6 from '../../src/assets/images/category/06.jpg'
 
 
 const subTitle = "Decide What To Buy with Eph Group Store";
@@ -8,37 +14,37 @@ const btnText = "Get Started";
 
 const categoryList = [
 {
-imgUrl: '../../src/assets/images/category/01.jpg',
+imgUrl: cat1,
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'DSLR Camera',
 },
 {
-imgUrl: '../../src/assets/images/category/02.jpg',
+imgUrl: cat2,
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'Shoes',
 },
 {
-imgUrl: '../../src/assets/images/category/03.jpg',
+imgUrl: cat3,
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'Photography',
 },
 {
-imgUrl: '../../src/assets/images/category/04.jpg',
+imgUrl: cat4,
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'Formal Dress',
 },
 {
-imgUrl: '../../src/assets/images/category/05.jpg',
+imgUrl: cat5,
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'Colorful Bags',
 },
 {
-imgUrl: '../../src/assets/images/category/06.jpg',
+imgUrl: cat6,
 imgAlt: 'category rajibraj91 rajibraj',
 iconName: 'icofont-brand-windows',
 title: 'Home Decor',
