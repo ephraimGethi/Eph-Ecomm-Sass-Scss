@@ -1,8 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 
-const title = "About ShopCart";
-const desc = "Eduaid theme number one world class university in the world There are student are studing always in this university for all time.";
+const title = "About Ephraim Ecommerce";
+const desc = "Ephraim Ecommerce portal is the leading market place in the entire central region and the entire east africa at large.Feel free to order anything from us";
 const ItemTitle = "Categories";
 const quickTitle = "Quick Links";
 const tweetTitle = "Recent Tweets";
@@ -107,11 +107,11 @@ const quickList = [
 const tweetList = [
     {
         iconName: 'icofont-twitter',
-        desc: <p>Aminur islam <a href="#">@Eph Group Greetings!  #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
+        desc: <p>Ephraim and Ephraim <a href="#">@Eph Group Greetings!  #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
     },
     {
         iconName: 'icofont-twitter',
-        desc: <p>Somrat islam <a href="#">@Eph Group Hey! #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
+        desc: <p>Ephraim and Ephraim <a href="#">@Eph Group Hey! #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
     },
 ]
 
